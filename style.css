@@ -1,0 +1,16 @@
+.imgs2 {
+    display: flex;
+    
+    
+}
+.imgs2 img {
+    margin-left: 6px;
+}
+.container {
+    display: flex;
+    align-items: center;
+}
+.imgs1 {
+    width: 100%;
+    background-color: black;
+}
